@@ -37,7 +37,7 @@ MERGED from [com.android.support:support-fragment:24.2.0] E:\AndroidStudio\CoolW
 	android:icon
 		ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:9:5-39
 	android:theme
-		ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:12:5-36
+		ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:12:5-55
 activity#com.coolweather.activity.ChooseAreaActivity
 ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:14:5-21:16
 	android:label

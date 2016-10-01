@@ -60,11 +60,11 @@
         "source": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_seek_thumb.xml"
-    },
-    {
         "merged": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
         "source": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_seek_thumb.xml"
     }
 ]
