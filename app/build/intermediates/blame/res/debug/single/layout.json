@@ -56,10 +56,6 @@
         "source": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\AndroidStudio\\CoolWeather\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_toolbar.xml"
     },
@@ -146,6 +142,10 @@
     {
         "merged": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_area.xml",
+        "source": "E:\\AndroidStudio\\CoolWeather\\app\\src\\main\\res\\layout\\choose_area.xml"
     },
     {
         "merged": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
