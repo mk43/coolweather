@@ -115,17 +115,8 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="4f578e507834767a6c4c80269abf08ba1ae31266">
+        sha1="42deec4b4d5c5ceedfa37f4720f657299f755cf7">
         <dex dex="E:\AndroidStudio\CoolWeather\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8fc8490b70076a59ce281d1a572722a48887daee.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="E:\AndroidStudio\CoolWeather\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_5e4853abd617bb71774eb710ac0cb2af2fcf8c53.jar" />
     </item>
     <item
         is-multidex="false"
@@ -135,6 +126,15 @@
         revision="24.0.2"
         sha1="045be695d968dd707691cc55d23746dbf8cf569a">
         <dex dex="E:\AndroidStudio\CoolWeather\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_c28044e5e5fde57f26fd3b76d9f7adf0d7d2abad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\AndroidStudio\CoolWeather\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_5e4853abd617bb71774eb710ac0cb2af2fcf8c53.jar" />
     </item>
     <item
         is-multidex="false"
@@ -151,7 +151,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="ed854cbdce8b9cb45913dd963990ea855e2ec44d">
+        sha1="2903d9eb570534c2469b6966c98be1f9c8eb527b">
         <dex dex="E:\AndroidStudio\CoolWeather\app\build\intermediates\pre-dexed\debug\instant-run_0ac6cfbecae0974865c52e202622d6919451d463.jar" />
     </item>
 

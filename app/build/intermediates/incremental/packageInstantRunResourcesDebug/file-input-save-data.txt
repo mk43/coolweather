@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Oct 01 15:28:40 SGT 2016
+#Sat Oct 01 15:50:16 SGT 2016
 122.file=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_secondary_text_material_dark.xml
 60.set=ANDROID_RESOURCE
 129.file=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml
