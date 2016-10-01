@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Oct 01 15:50:16 SGT 2016
+#Sat Oct 01 16:16:31 SGT 2016
 122.file=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_secondary_text_material_dark.xml
 60.set=ANDROID_RESOURCE
 129.file=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml
@@ -315,7 +315,7 @@
 139.file=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_menu_item_layout.xml
 4.file=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_launcher.png
 149.base=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_
-48.file=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png
+48.file=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png
 16.base=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_
 95.file=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_primary_text_material_dark.xml
 1.set=ANDROID_RESOURCE
@@ -392,7 +392,7 @@ count=173
 3.file=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png
 148.base=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_
 15.base=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_
-47.file=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png
+47.file=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png
 94.file=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_bar_up_container.xml
 120.set=ANDROID_RESOURCE
 101.base=E\:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\res\\resources-debug.ap_
