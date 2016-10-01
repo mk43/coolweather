@@ -8,7 +8,7 @@ public class County {
   private int id;
   private String countyName;
   private String countyCode;
-  private int CityId;
+  private int cityId;
 
   public int getId() {
     return id;
@@ -35,10 +35,10 @@ public class County {
   }
 
   public int getCityId() {
-    return CityId;
+    return cityId;
   }
 
   public void setCityId(int cityId) {
-    CityId = cityId;
+    cityId = cityId;
   }
 }

@@ -38,8 +38,8 @@ public class ChooseAreaActivity extends AppCompatActivity {
   private List<Province> provinceList;        // 省列表
   private List<City> cityList;                // 市列表
   private List<County> countyList;            // 县列表
-  private Province selectedProvince;
-  private City selectedCity;
+  private Province selectedProvince;          // 选中的省
+  private City selectedCity;                  // 选中的市
   private int currentLevel;
 
   @Override
@@ -48,9 +48,10 @@ public class ChooseAreaActivity extends AppCompatActivity {
     setContentView(R.layout.choose_area);
     titleText = (TextView) findViewById(R.id.title_text);
     listView = (ListView) findViewById(R.id.list_view);
-    adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, dataList);
+    adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, dataList);
     listView.setAdapter(adapter);
     coolWeatherDB = CoolWeatherDB.getInstance(this);
+    queryProvinces();
     listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
       @Override
       public void onItemClick(AdapterView<?> arg0,View view,int index,long arg3) {
@@ -63,7 +64,6 @@ public class ChooseAreaActivity extends AppCompatActivity {
         }
       }
     });
-    queryProvinces();
   }
 
   /**
@@ -129,12 +129,12 @@ public class ChooseAreaActivity extends AppCompatActivity {
   private void queryFormServer(final String code, final String type) {
     String address;
     if (!TextUtils.isEmpty(code)) {
-      address = "http://www.weather.com.cn/data/list3/city" + code + ".xml";
+      address = "http://www.weather.com.cn/data/sk/city" + code + ".html";
     } else {
-      address = "http://www.weather.com.cn/data/list3/city.xml";
+      address = "http://www.weather.com.cn/data/sk/city.html";
     }
     showProgressDialog();
-    HttpUtil.sendHttpRquest(address,new HttpCallbackListener() {
+    HttpUtil.sendHttpRequest(address,new HttpCallbackListener() {
       @Override
       public void onFinish(String response) {
         boolean result = false;
@@ -143,7 +143,7 @@ public class ChooseAreaActivity extends AppCompatActivity {
         } else if ("city".equals(type)) {
           result = Utility.handleCitiesResponse(coolWeatherDB, response, selectedProvince.getId());
         } else if ("county".equals(type)) {
-          result = Utility.handleCountiesResponses(coolWeatherDB, response, selectedCity.getId());
+          result = Utility.handleCountiesResponse(coolWeatherDB, response, selectedCity.getId());
         }
         if (result) {
           // 通过runOnUiThread()方法回到主线程处理逻辑

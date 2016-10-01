@@ -21,13 +21,12 @@ public class CoolWeatherDB {
   /**
    * 数据库名
    */
-  public static final String DB_NAME = String.valueOf(R.string.db_name);
-//  public static final String DB_NAME = "cool_weather";
+  public static final String DB_NAME = "cool_weather";
 
   /**
    * 数据库版本号
    */
-  public static final int VERSION = Integer.valueOf(R.integer.version);
+  public static final int VERSION = 1;
 
   private static CoolWeatherDB coolWeatherDB;
   private SQLiteDatabase db;

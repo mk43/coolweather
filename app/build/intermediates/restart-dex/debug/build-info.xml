@@ -4,29 +4,29 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="366555869355553"
+    timestamp="369796319111873"
     token="5244091694395618389"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="740" />
+        duration="822" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="504" />
+        duration="375" />
     <task
         name="verifier"
-        duration="91" />
+        duration="100" />
 
     <artifact
         location="E:\AndroidStudio\CoolWeather\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="366555869355553"
+        timestamp="369796319111873"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\AndroidStudio\CoolWeather\app\build\outputs\apk\app-debug.apk"

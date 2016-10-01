@@ -57,7 +57,7 @@ public class Utility {
   /**
    * 解析和处理服务器返回的县级数据
    */
-  public static boolean handleCountiesResponses(CoolWeatherDB coolWeatherDB, String response, int cityId) {
+  public static boolean handleCountiesResponse(CoolWeatherDB coolWeatherDB, String response, int cityId) {
     if (!TextUtils.isEmpty(response)) {
       String[] allCounties = response.split(",");
       if (allCounties != null && allCounties.length > 0) {
@@ -74,6 +74,4 @@ public class Utility {
     }
     return false;
   }
-
-
 }
