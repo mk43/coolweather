@@ -3169,9 +3169,9 @@
                     "position": {
                         "startLine": 5,
                         "startColumn": 2,
-                        "startOffset": 179,
+                        "startOffset": 172,
                         "endColumn": 37,
-                        "endOffset": 214
+                        "endOffset": 207
                     }
                 }
             },
@@ -3769,8 +3769,8 @@
                     "startLine": 331,
                     "startColumn": 4,
                     "startOffset": 33130,
-                    "endColumn": 48,
-                    "endOffset": 33174
+                    "endColumn": 41,
+                    "endOffset": 33167
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\src\\main\\res\\values\\strings.xml",
@@ -3778,8 +3778,8 @@
                         "startLine": 1,
                         "startColumn": 2,
                         "startOffset": 15,
-                        "endColumn": 46,
-                        "endOffset": 59
+                        "endColumn": 39,
+                        "endOffset": 52
                     }
                 }
             },
@@ -3787,18 +3787,18 @@
                 "to": {
                     "startLine": 332,
                     "startColumn": 4,
-                    "startOffset": 33179,
+                    "startOffset": 33172,
                     "endColumn": 36,
-                    "endOffset": 33211
+                    "endOffset": 33204
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
-                        "startOffset": 111,
+                        "startOffset": 104,
                         "endColumn": 34,
-                        "endOffset": 143
+                        "endOffset": 136
                     }
                 }
             },
@@ -3806,18 +3806,18 @@
                 "to": {
                     "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 33216,
+                    "startOffset": 33209,
                     "endColumn": 48,
-                    "endOffset": 33260
+                    "endOffset": 33253
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
-                        "startOffset": 63,
+                        "startOffset": 56,
                         "endColumn": 46,
-                        "endOffset": 107
+                        "endOffset": 100
                     }
                 }
             },
@@ -3825,9 +3825,9 @@
                 "to": {
                     "startLine": 334,
                     "startColumn": 4,
-                    "startOffset": 33265,
+                    "startOffset": 33258,
                     "endColumn": 52,
-                    "endOffset": 33313
+                    "endOffset": 33306
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -3844,9 +3844,9 @@
                 "to": {
                     "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 33318,
+                    "startOffset": 33311,
                     "endColumn": 70,
-                    "endOffset": 33384
+                    "endOffset": 33377
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -3863,18 +3863,18 @@
                 "to": {
                     "startLine": 336,
                     "startColumn": 4,
-                    "startOffset": 33389,
+                    "startOffset": 33382,
                     "endColumn": 32,
-                    "endOffset": 33417
+                    "endOffset": 33410
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,
-                        "startOffset": 147,
+                        "startOffset": 140,
                         "endColumn": 30,
-                        "endOffset": 175
+                        "endOffset": 168
                     }
                 }
             },
@@ -3882,9 +3882,9 @@
                 "to": {
                     "startLine": 337,
                     "startColumn": 4,
-                    "startOffset": 33422,
+                    "startOffset": 33415,
                     "endColumn": 77,
-                    "endOffset": 33495
+                    "endOffset": 33488
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -3901,9 +3901,9 @@
                 "to": {
                     "startLine": 338,
                     "startColumn": 4,
-                    "startOffset": 33500,
+                    "startOffset": 33493,
                     "endColumn": 89,
-                    "endOffset": 33585
+                    "endOffset": 33578
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -3920,9 +3920,9 @@
                 "to": {
                     "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 33590,
+                    "startOffset": 33583,
                     "endColumn": 87,
-                    "endOffset": 33673
+                    "endOffset": 33666
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -3939,9 +3939,9 @@
                 "to": {
                     "startLine": 340,
                     "startColumn": 4,
-                    "startOffset": 33678,
+                    "startOffset": 33671,
                     "endColumn": 95,
-                    "endOffset": 33769
+                    "endOffset": 33762
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -3958,10 +3958,10 @@
                 "to": {
                     "startLine": 341,
                     "startColumn": 4,
-                    "startOffset": 33774,
+                    "startOffset": 33767,
                     "endLine": 346,
                     "endColumn": 10,
-                    "endOffset": 34070
+                    "endOffset": 34063
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\src\\main\\res\\values\\styles.xml",
@@ -3979,10 +3979,10 @@
                 "to": {
                     "startLine": 347,
                     "startColumn": 4,
-                    "startOffset": 34075,
+                    "startOffset": 34068,
                     "endLine": 353,
                     "endColumn": 12,
-                    "endOffset": 34571
+                    "endOffset": 34564
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4000,9 +4000,9 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 34576,
+                    "startOffset": 34569,
                     "endColumn": 88,
-                    "endOffset": 34660
+                    "endOffset": 34653
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4019,10 +4019,10 @@
                 "to": {
                     "startLine": 355,
                     "startColumn": 4,
-                    "startOffset": 34665,
+                    "startOffset": 34658,
                     "endLine": 358,
                     "endColumn": 12,
-                    "endOffset": 34907
+                    "endOffset": 34900
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4040,10 +4040,10 @@
                 "to": {
                     "startLine": 359,
                     "startColumn": 4,
-                    "startOffset": 34912,
+                    "startOffset": 34905,
                     "endLine": 362,
                     "endColumn": 12,
-                    "endOffset": 35188
+                    "endOffset": 35181
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4061,10 +4061,10 @@
                 "to": {
                     "startLine": 363,
                     "startColumn": 4,
-                    "startOffset": 35193,
+                    "startOffset": 35186,
                     "endLine": 367,
                     "endColumn": 12,
-                    "endOffset": 35473
+                    "endOffset": 35466
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4082,10 +4082,10 @@
                 "to": {
                     "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 35478,
+                    "startOffset": 35471,
                     "endLine": 373,
                     "endColumn": 12,
-                    "endOffset": 35866
+                    "endOffset": 35859
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4103,10 +4103,10 @@
                 "to": {
                     "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 35871,
+                    "startOffset": 35864,
                     "endLine": 380,
                     "endColumn": 12,
-                    "endOffset": 36343
+                    "endOffset": 36336
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4124,10 +4124,10 @@
                 "to": {
                     "startLine": 381,
                     "startColumn": 4,
-                    "startOffset": 36348,
+                    "startOffset": 36341,
                     "endLine": 384,
                     "endColumn": 12,
-                    "endOffset": 36565
+                    "endOffset": 36558
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4145,10 +4145,10 @@
                 "to": {
                     "startLine": 385,
                     "startColumn": 4,
-                    "startOffset": 36570,
+                    "startOffset": 36563,
                     "endLine": 388,
                     "endColumn": 12,
-                    "endOffset": 36787
+                    "endOffset": 36780
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4166,10 +4166,10 @@
                 "to": {
                     "startLine": 389,
                     "startColumn": 4,
-                    "startOffset": 36792,
+                    "startOffset": 36785,
                     "endLine": 393,
                     "endColumn": 12,
-                    "endOffset": 37055
+                    "endOffset": 37048
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4187,10 +4187,10 @@
                 "to": {
                     "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 37060,
+                    "startOffset": 37053,
                     "endLine": 397,
                     "endColumn": 12,
-                    "endOffset": 37282
+                    "endOffset": 37275
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4208,10 +4208,10 @@
                 "to": {
                     "startLine": 398,
                     "startColumn": 4,
-                    "startOffset": 37287,
+                    "startOffset": 37280,
                     "endLine": 401,
                     "endColumn": 12,
-                    "endOffset": 37512
+                    "endOffset": 37505
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4229,10 +4229,10 @@
                 "to": {
                     "startLine": 402,
                     "startColumn": 4,
-                    "startOffset": 37517,
+                    "startOffset": 37510,
                     "endLine": 405,
                     "endColumn": 12,
-                    "endOffset": 37742
+                    "endOffset": 37735
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4250,10 +4250,10 @@
                 "to": {
                     "startLine": 406,
                     "startColumn": 4,
-                    "startOffset": 37747,
+                    "startOffset": 37740,
                     "endLine": 409,
                     "endColumn": 12,
-                    "endOffset": 37972
+                    "endOffset": 37965
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4271,10 +4271,10 @@
                 "to": {
                     "startLine": 410,
                     "startColumn": 4,
-                    "startOffset": 37977,
+                    "startOffset": 37970,
                     "endLine": 413,
                     "endColumn": 12,
-                    "endOffset": 38202
+                    "endOffset": 38195
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4292,10 +4292,10 @@
                 "to": {
                     "startLine": 414,
                     "startColumn": 4,
-                    "startOffset": 38207,
+                    "startOffset": 38200,
                     "endLine": 417,
                     "endColumn": 12,
-                    "endOffset": 38429
+                    "endOffset": 38422
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4313,10 +4313,10 @@
                 "to": {
                     "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 38434,
+                    "startOffset": 38427,
                     "endLine": 421,
                     "endColumn": 12,
-                    "endOffset": 38668
+                    "endOffset": 38661
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4334,10 +4334,10 @@
                 "to": {
                     "startLine": 422,
                     "startColumn": 4,
-                    "startOffset": 38673,
+                    "startOffset": 38666,
                     "endLine": 425,
                     "endColumn": 12,
-                    "endOffset": 38894
+                    "endOffset": 38887
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4355,10 +4355,10 @@
                 "to": {
                     "startLine": 426,
                     "startColumn": 4,
-                    "startOffset": 38899,
+                    "startOffset": 38892,
                     "endLine": 429,
                     "endColumn": 12,
-                    "endOffset": 39139
+                    "endOffset": 39132
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4376,10 +4376,10 @@
                 "to": {
                     "startLine": 430,
                     "startColumn": 4,
-                    "startOffset": 39144,
+                    "startOffset": 39137,
                     "endLine": 433,
                     "endColumn": 12,
-                    "endOffset": 39369
+                    "endOffset": 39362
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4397,10 +4397,10 @@
                 "to": {
                     "startLine": 434,
                     "startColumn": 4,
-                    "startOffset": 39374,
+                    "startOffset": 39367,
                     "endLine": 437,
                     "endColumn": 12,
-                    "endOffset": 39617
+                    "endOffset": 39610
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4418,10 +4418,10 @@
                 "to": {
                     "startLine": 438,
                     "startColumn": 4,
-                    "startOffset": 39622,
+                    "startOffset": 39615,
                     "endLine": 441,
                     "endColumn": 12,
-                    "endOffset": 39836
+                    "endOffset": 39829
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4439,10 +4439,10 @@
                 "to": {
                     "startLine": 442,
                     "startColumn": 4,
-                    "startOffset": 39841,
+                    "startOffset": 39834,
                     "endLine": 446,
                     "endColumn": 12,
-                    "endOffset": 40119
+                    "endOffset": 40112
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4460,10 +4460,10 @@
                 "to": {
                     "startLine": 447,
                     "startColumn": 4,
-                    "startOffset": 40124,
+                    "startOffset": 40117,
                     "endLine": 450,
                     "endColumn": 12,
-                    "endOffset": 40327
+                    "endOffset": 40320
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4481,10 +4481,10 @@
                 "to": {
                     "startLine": 451,
                     "startColumn": 4,
-                    "startOffset": 40332,
+                    "startOffset": 40325,
                     "endLine": 453,
                     "endColumn": 12,
-                    "endOffset": 40458
+                    "endOffset": 40451
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4502,10 +4502,10 @@
                 "to": {
                     "startLine": 454,
                     "startColumn": 4,
-                    "startOffset": 40463,
+                    "startOffset": 40456,
                     "endLine": 457,
                     "endColumn": 12,
-                    "endOffset": 40685
+                    "endOffset": 40678
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4523,10 +4523,10 @@
                 "to": {
                     "startLine": 458,
                     "startColumn": 4,
-                    "startOffset": 40690,
+                    "startOffset": 40683,
                     "endLine": 461,
                     "endColumn": 12,
-                    "endOffset": 40931
+                    "endOffset": 40924
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4544,10 +4544,10 @@
                 "to": {
                     "startLine": 462,
                     "startColumn": 4,
-                    "startOffset": 40936,
+                    "startOffset": 40929,
                     "endLine": 465,
                     "endColumn": 12,
-                    "endOffset": 41156
+                    "endOffset": 41149
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4565,10 +4565,10 @@
                 "to": {
                     "startLine": 466,
                     "startColumn": 4,
-                    "startOffset": 41161,
+                    "startOffset": 41154,
                     "endLine": 469,
                     "endColumn": 12,
-                    "endOffset": 41403
+                    "endOffset": 41396
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4586,10 +4586,10 @@
                 "to": {
                     "startLine": 470,
                     "startColumn": 4,
-                    "startOffset": 41408,
+                    "startOffset": 41401,
                     "endLine": 473,
                     "endColumn": 12,
-                    "endOffset": 41624
+                    "endOffset": 41617
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4607,10 +4607,10 @@
                 "to": {
                     "startLine": 474,
                     "startColumn": 4,
-                    "startOffset": 41629,
+                    "startOffset": 41622,
                     "endLine": 477,
                     "endColumn": 12,
-                    "endOffset": 41869
+                    "endOffset": 41862
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4628,10 +4628,10 @@
                 "to": {
                     "startLine": 478,
                     "startColumn": 4,
-                    "startOffset": 41874,
+                    "startOffset": 41867,
                     "endLine": 481,
                     "endColumn": 12,
-                    "endOffset": 42145
+                    "endOffset": 42138
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4649,10 +4649,10 @@
                 "to": {
                     "startLine": 482,
                     "startColumn": 4,
-                    "startOffset": 42150,
+                    "startOffset": 42143,
                     "endLine": 485,
                     "endColumn": 12,
-                    "endOffset": 42446
+                    "endOffset": 42439
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4670,10 +4670,10 @@
                 "to": {
                     "startLine": 486,
                     "startColumn": 4,
-                    "startOffset": 42451,
+                    "startOffset": 42444,
                     "endLine": 489,
                     "endColumn": 12,
-                    "endOffset": 42770
+                    "endOffset": 42763
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4691,10 +4691,10 @@
                 "to": {
                     "startLine": 490,
                     "startColumn": 4,
-                    "startOffset": 42775,
+                    "startOffset": 42768,
                     "endLine": 493,
                     "endColumn": 12,
-                    "endOffset": 43061
+                    "endOffset": 43054
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4712,10 +4712,10 @@
                 "to": {
                     "startLine": 494,
                     "startColumn": 4,
-                    "startOffset": 43066,
+                    "startOffset": 43059,
                     "endLine": 497,
                     "endColumn": 12,
-                    "endOffset": 43375
+                    "endOffset": 43368
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4733,9 +4733,9 @@
                 "to": {
                     "startLine": 498,
                     "startColumn": 4,
-                    "startOffset": 43380,
+                    "startOffset": 43373,
                     "endColumn": 136,
-                    "endOffset": 43512
+                    "endOffset": 43505
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4752,9 +4752,9 @@
                 "to": {
                     "startLine": 499,
                     "startColumn": 4,
-                    "startOffset": 43517,
+                    "startOffset": 43510,
                     "endColumn": 130,
-                    "endOffset": 43643
+                    "endOffset": 43636
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4771,9 +4771,9 @@
                 "to": {
                     "startLine": 500,
                     "startColumn": 4,
-                    "startOffset": 43648,
+                    "startOffset": 43641,
                     "endColumn": 104,
-                    "endOffset": 43748
+                    "endOffset": 43741
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4790,10 +4790,10 @@
                 "to": {
                     "startLine": 501,
                     "startColumn": 4,
-                    "startOffset": 43753,
+                    "startOffset": 43746,
                     "endLine": 503,
                     "endColumn": 12,
-                    "endOffset": 43952
+                    "endOffset": 43945
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4811,10 +4811,10 @@
                 "to": {
                     "startLine": 504,
                     "startColumn": 4,
-                    "startOffset": 43957,
+                    "startOffset": 43950,
                     "endLine": 506,
                     "endColumn": 12,
-                    "endOffset": 44160
+                    "endOffset": 44153
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4832,10 +4832,10 @@
                 "to": {
                     "startLine": 507,
                     "startColumn": 4,
-                    "startOffset": 44165,
+                    "startOffset": 44158,
                     "endLine": 510,
                     "endColumn": 12,
-                    "endOffset": 44431
+                    "endOffset": 44424
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4853,9 +4853,9 @@
                 "to": {
                     "startLine": 511,
                     "startColumn": 4,
-                    "startOffset": 44436,
+                    "startOffset": 44429,
                     "endColumn": 111,
-                    "endOffset": 44543
+                    "endOffset": 44536
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4872,9 +4872,9 @@
                 "to": {
                     "startLine": 512,
                     "startColumn": 4,
-                    "startOffset": 44548,
+                    "startOffset": 44541,
                     "endColumn": 111,
-                    "endOffset": 44655
+                    "endOffset": 44648
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4891,9 +4891,9 @@
                 "to": {
                     "startLine": 513,
                     "startColumn": 4,
-                    "startOffset": 44660,
+                    "startOffset": 44653,
                     "endColumn": 104,
-                    "endOffset": 44760
+                    "endOffset": 44753
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4910,9 +4910,9 @@
                 "to": {
                     "startLine": 514,
                     "startColumn": 4,
-                    "startOffset": 44765,
+                    "startOffset": 44758,
                     "endColumn": 116,
-                    "endOffset": 44877
+                    "endOffset": 44870
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4929,10 +4929,10 @@
                 "to": {
                     "startLine": 515,
                     "startColumn": 4,
-                    "startOffset": 44882,
+                    "startOffset": 44875,
                     "endLine": 517,
                     "endColumn": 12,
-                    "endOffset": 45091
+                    "endOffset": 45084
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4950,10 +4950,10 @@
                 "to": {
                     "startLine": 518,
                     "startColumn": 4,
-                    "startOffset": 45096,
+                    "startOffset": 45089,
                     "endLine": 519,
                     "endColumn": 12,
-                    "endOffset": 45237
+                    "endOffset": 45230
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4971,10 +4971,10 @@
                 "to": {
                     "startLine": 520,
                     "startColumn": 4,
-                    "startOffset": 45242,
+                    "startOffset": 45235,
                     "endLine": 521,
                     "endColumn": 12,
-                    "endOffset": 45377
+                    "endOffset": 45370
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -4992,10 +4992,10 @@
                 "to": {
                     "startLine": 522,
                     "startColumn": 4,
-                    "startOffset": 45382,
+                    "startOffset": 45375,
                     "endLine": 523,
                     "endColumn": 12,
-                    "endOffset": 45463
+                    "endOffset": 45456
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5013,10 +5013,10 @@
                 "to": {
                     "startLine": 524,
                     "startColumn": 4,
-                    "startOffset": 45468,
+                    "startOffset": 45461,
                     "endLine": 528,
                     "endColumn": 12,
-                    "endOffset": 45811
+                    "endOffset": 45804
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5034,9 +5034,9 @@
                 "to": {
                     "startLine": 529,
                     "startColumn": 4,
-                    "startOffset": 45816,
+                    "startOffset": 45809,
                     "endColumn": 87,
-                    "endOffset": 45899
+                    "endOffset": 45892
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5053,10 +5053,10 @@
                 "to": {
                     "startLine": 530,
                     "startColumn": 4,
-                    "startOffset": 45904,
+                    "startOffset": 45897,
                     "endLine": 533,
                     "endColumn": 12,
-                    "endOffset": 46129
+                    "endOffset": 46122
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5074,10 +5074,10 @@
                 "to": {
                     "startLine": 534,
                     "startColumn": 4,
-                    "startOffset": 46134,
+                    "startOffset": 46127,
                     "endLine": 539,
                     "endColumn": 12,
-                    "endOffset": 46547
+                    "endOffset": 46540
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5095,10 +5095,10 @@
                 "to": {
                     "startLine": 540,
                     "startColumn": 4,
-                    "startOffset": 46552,
+                    "startOffset": 46545,
                     "endLine": 543,
                     "endColumn": 12,
-                    "endOffset": 46780
+                    "endOffset": 46773
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5116,9 +5116,9 @@
                 "to": {
                     "startLine": 544,
                     "startColumn": 4,
-                    "startOffset": 46785,
+                    "startOffset": 46778,
                     "endColumn": 81,
-                    "endOffset": 46862
+                    "endOffset": 46855
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5135,10 +5135,10 @@
                 "to": {
                     "startLine": 545,
                     "startColumn": 4,
-                    "startOffset": 46867,
+                    "startOffset": 46860,
                     "endLine": 546,
                     "endColumn": 12,
-                    "endOffset": 46960
+                    "endOffset": 46953
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5156,10 +5156,10 @@
                 "to": {
                     "startLine": 547,
                     "startColumn": 4,
-                    "startOffset": 46965,
+                    "startOffset": 46958,
                     "endLine": 557,
                     "endColumn": 12,
-                    "endOffset": 47577
+                    "endOffset": 47570
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5177,9 +5177,9 @@
                 "to": {
                     "startLine": 558,
                     "startColumn": 4,
-                    "startOffset": 47582,
+                    "startOffset": 47575,
                     "endColumn": 99,
-                    "endOffset": 47677
+                    "endOffset": 47670
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5196,10 +5196,10 @@
                 "to": {
                     "startLine": 559,
                     "startColumn": 4,
-                    "startOffset": 47682,
+                    "startOffset": 47675,
                     "endLine": 562,
                     "endColumn": 12,
-                    "endOffset": 47913
+                    "endOffset": 47906
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5217,10 +5217,10 @@
                 "to": {
                     "startLine": 563,
                     "startColumn": 4,
-                    "startOffset": 47918,
+                    "startOffset": 47911,
                     "endLine": 568,
                     "endColumn": 12,
-                    "endOffset": 48337
+                    "endOffset": 48330
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5238,10 +5238,10 @@
                 "to": {
                     "startLine": 569,
                     "startColumn": 4,
-                    "startOffset": 48342,
+                    "startOffset": 48335,
                     "endLine": 572,
                     "endColumn": 12,
-                    "endOffset": 48576
+                    "endOffset": 48569
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5259,9 +5259,9 @@
                 "to": {
                     "startLine": 573,
                     "startColumn": 4,
-                    "startOffset": 48581,
+                    "startOffset": 48574,
                     "endColumn": 93,
-                    "endOffset": 48670
+                    "endOffset": 48663
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5278,9 +5278,9 @@
                 "to": {
                     "startLine": 574,
                     "startColumn": 4,
-                    "startOffset": 48675,
+                    "startOffset": 48668,
                     "endColumn": 88,
-                    "endOffset": 48759
+                    "endOffset": 48752
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5297,10 +5297,10 @@
                 "to": {
                     "startLine": 575,
                     "startColumn": 4,
-                    "startOffset": 48764,
+                    "startOffset": 48757,
                     "endLine": 578,
                     "endColumn": 12,
-                    "endOffset": 48996
+                    "endOffset": 48989
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5318,10 +5318,10 @@
                 "to": {
                     "startLine": 579,
                     "startColumn": 4,
-                    "startOffset": 49001,
+                    "startOffset": 48994,
                     "endLine": 604,
                     "endColumn": 12,
-                    "endOffset": 50947
+                    "endOffset": 50940
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5339,10 +5339,10 @@
                 "to": {
                     "startLine": 605,
                     "startColumn": 4,
-                    "startOffset": 50952,
+                    "startOffset": 50945,
                     "endLine": 608,
                     "endColumn": 12,
-                    "endOffset": 51189
+                    "endOffset": 51182
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5360,9 +5360,9 @@
                 "to": {
                     "startLine": 609,
                     "startColumn": 4,
-                    "startOffset": 51194,
+                    "startOffset": 51187,
                     "endColumn": 101,
-                    "endOffset": 51291
+                    "endOffset": 51284
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5379,10 +5379,10 @@
                 "to": {
                     "startLine": 610,
                     "startColumn": 4,
-                    "startOffset": 51296,
+                    "startOffset": 51289,
                     "endLine": 613,
                     "endColumn": 12,
-                    "endOffset": 51528
+                    "endOffset": 51521
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5400,10 +5400,10 @@
                 "to": {
                     "startLine": 614,
                     "startColumn": 4,
-                    "startOffset": 51533,
+                    "startOffset": 51526,
                     "endLine": 640,
                     "endColumn": 12,
-                    "endOffset": 53610
+                    "endOffset": 53603
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5421,10 +5421,10 @@
                 "to": {
                     "startLine": 641,
                     "startColumn": 4,
-                    "startOffset": 53615,
+                    "startOffset": 53608,
                     "endLine": 799,
                     "endColumn": 12,
-                    "endOffset": 63771
+                    "endOffset": 63764
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5442,10 +5442,10 @@
                 "to": {
                     "startLine": 800,
                     "startColumn": 4,
-                    "startOffset": 63776,
+                    "startOffset": 63769,
                     "endLine": 821,
                     "endColumn": 12,
-                    "endOffset": 65022
+                    "endOffset": 65015
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5463,10 +5463,10 @@
                 "to": {
                     "startLine": 822,
                     "startColumn": 4,
-                    "startOffset": 65027,
+                    "startOffset": 65020,
                     "endLine": 980,
                     "endColumn": 12,
-                    "endOffset": 75282
+                    "endOffset": 75275
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5484,10 +5484,10 @@
                 "to": {
                     "startLine": 981,
                     "startColumn": 4,
-                    "startOffset": 75287,
+                    "startOffset": 75280,
                     "endLine": 1002,
                     "endColumn": 12,
-                    "endOffset": 76545
+                    "endOffset": 76538
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5505,10 +5505,10 @@
                 "to": {
                     "startLine": 1003,
                     "startColumn": 4,
-                    "startOffset": 76550,
+                    "startOffset": 76543,
                     "endLine": 1024,
                     "endColumn": 12,
-                    "endOffset": 77810
+                    "endOffset": 77803
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5526,10 +5526,10 @@
                 "to": {
                     "startLine": 1025,
                     "startColumn": 4,
-                    "startOffset": 77815,
+                    "startOffset": 77808,
                     "endLine": 1031,
                     "endColumn": 12,
-                    "endOffset": 78346
+                    "endOffset": 78339
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5547,10 +5547,10 @@
                 "to": {
                     "startLine": 1032,
                     "startColumn": 4,
-                    "startOffset": 78351,
+                    "startOffset": 78344,
                     "endLine": 1036,
                     "endColumn": 12,
-                    "endOffset": 78676
+                    "endOffset": 78669
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5568,10 +5568,10 @@
                 "to": {
                     "startLine": 1037,
                     "startColumn": 4,
-                    "startOffset": 78681,
+                    "startOffset": 78674,
                     "endLine": 1058,
                     "endColumn": 12,
-                    "endOffset": 79941
+                    "endOffset": 79934
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5589,10 +5589,10 @@
                 "to": {
                     "startLine": 1059,
                     "startColumn": 4,
-                    "startOffset": 79946,
+                    "startOffset": 79939,
                     "endLine": 1063,
                     "endColumn": 12,
-                    "endOffset": 80197
+                    "endOffset": 80190
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5610,10 +5610,10 @@
                 "to": {
                     "startLine": 1064,
                     "startColumn": 4,
-                    "startOffset": 80202,
+                    "startOffset": 80195,
                     "endLine": 1068,
                     "endColumn": 12,
-                    "endOffset": 80433
+                    "endOffset": 80426
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5631,10 +5631,10 @@
                 "to": {
                     "startLine": 1069,
                     "startColumn": 4,
-                    "startOffset": 80438,
+                    "startOffset": 80431,
                     "endLine": 1078,
                     "endColumn": 12,
-                    "endOffset": 80980
+                    "endOffset": 80973
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5652,10 +5652,10 @@
                 "to": {
                     "startLine": 1079,
                     "startColumn": 4,
-                    "startOffset": 80985,
+                    "startOffset": 80978,
                     "endLine": 1087,
                     "endColumn": 12,
-                    "endOffset": 81474
+                    "endOffset": 81467
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5673,10 +5673,10 @@
                 "to": {
                     "startLine": 1088,
                     "startColumn": 4,
-                    "startOffset": 81479,
+                    "startOffset": 81472,
                     "endLine": 1096,
                     "endColumn": 12,
-                    "endOffset": 82079
+                    "endOffset": 82072
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5694,10 +5694,10 @@
                 "to": {
                     "startLine": 1097,
                     "startColumn": 4,
-                    "startOffset": 82084,
+                    "startOffset": 82077,
                     "endLine": 1100,
                     "endColumn": 12,
-                    "endOffset": 82277
+                    "endOffset": 82270
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5715,10 +5715,10 @@
                 "to": {
                     "startLine": 1101,
                     "startColumn": 4,
-                    "startOffset": 82282,
+                    "startOffset": 82275,
                     "endLine": 1107,
                     "endColumn": 12,
-                    "endOffset": 82857
+                    "endOffset": 82850
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5736,10 +5736,10 @@
                 "to": {
                     "startLine": 1108,
                     "startColumn": 4,
-                    "startOffset": 82862,
+                    "startOffset": 82855,
                     "endLine": 1115,
                     "endColumn": 12,
-                    "endOffset": 83421
+                    "endOffset": 83414
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5757,10 +5757,10 @@
                 "to": {
                     "startLine": 1116,
                     "startColumn": 4,
-                    "startOffset": 83426,
+                    "startOffset": 83419,
                     "endLine": 1122,
                     "endColumn": 12,
-                    "endOffset": 83796
+                    "endOffset": 83789
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5778,9 +5778,9 @@
                 "to": {
                     "startLine": 1123,
                     "startColumn": 4,
-                    "startOffset": 83801,
+                    "startOffset": 83794,
                     "endColumn": 117,
-                    "endOffset": 83914
+                    "endOffset": 83907
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5797,10 +5797,10 @@
                 "to": {
                     "startLine": 1124,
                     "startColumn": 4,
-                    "startOffset": 83919,
+                    "startOffset": 83912,
                     "endLine": 1132,
                     "endColumn": 12,
-                    "endOffset": 84452
+                    "endOffset": 84445
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5818,10 +5818,10 @@
                 "to": {
                     "startLine": 1133,
                     "startColumn": 4,
-                    "startOffset": 84457,
+                    "startOffset": 84450,
                     "endLine": 1135,
                     "endColumn": 12,
-                    "endOffset": 84609
+                    "endOffset": 84602
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5839,10 +5839,10 @@
                 "to": {
                     "startLine": 1136,
                     "startColumn": 4,
-                    "startOffset": 84614,
+                    "startOffset": 84607,
                     "endLine": 1138,
                     "endColumn": 12,
-                    "endOffset": 84783
+                    "endOffset": 84776
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5860,10 +5860,10 @@
                 "to": {
                     "startLine": 1139,
                     "startColumn": 4,
-                    "startOffset": 84788,
+                    "startOffset": 84781,
                     "endLine": 1143,
                     "endColumn": 12,
-                    "endOffset": 85103
+                    "endOffset": 85096
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5881,10 +5881,10 @@
                 "to": {
                     "startLine": 1144,
                     "startColumn": 4,
-                    "startOffset": 85108,
+                    "startOffset": 85101,
                     "endLine": 1147,
                     "endColumn": 12,
-                    "endOffset": 85359
+                    "endOffset": 85352
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5902,10 +5902,10 @@
                 "to": {
                     "startLine": 1148,
                     "startColumn": 4,
-                    "startOffset": 85364,
+                    "startOffset": 85357,
                     "endLine": 1151,
                     "endColumn": 12,
-                    "endOffset": 85529
+                    "endOffset": 85522
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5923,10 +5923,10 @@
                 "to": {
                     "startLine": 1152,
                     "startColumn": 4,
-                    "startOffset": 85534,
+                    "startOffset": 85527,
                     "endLine": 1154,
                     "endColumn": 12,
-                    "endOffset": 85670
+                    "endOffset": 85663
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5944,9 +5944,9 @@
                 "to": {
                     "startLine": 1155,
                     "startColumn": 4,
-                    "startOffset": 85675,
+                    "startOffset": 85668,
                     "endColumn": 63,
-                    "endOffset": 85734
+                    "endOffset": 85727
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5963,10 +5963,10 @@
                 "to": {
                     "startLine": 1156,
                     "startColumn": 4,
-                    "startOffset": 85739,
+                    "startOffset": 85732,
                     "endLine": 1159,
                     "endColumn": 12,
-                    "endOffset": 86016
+                    "endOffset": 86009
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -5984,10 +5984,10 @@
                 "to": {
                     "startLine": 1160,
                     "startColumn": 4,
-                    "startOffset": 86021,
+                    "startOffset": 86014,
                     "endLine": 1163,
                     "endColumn": 12,
-                    "endOffset": 86302
+                    "endOffset": 86295
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6005,10 +6005,10 @@
                 "to": {
                     "startLine": 1164,
                     "startColumn": 4,
-                    "startOffset": 86307,
+                    "startOffset": 86300,
                     "endLine": 1173,
                     "endColumn": 12,
-                    "endOffset": 86978
+                    "endOffset": 86971
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6026,10 +6026,10 @@
                 "to": {
                     "startLine": 1174,
                     "startColumn": 4,
-                    "startOffset": 86983,
+                    "startOffset": 86976,
                     "endLine": 1178,
                     "endColumn": 12,
-                    "endOffset": 87242
+                    "endOffset": 87235
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6047,10 +6047,10 @@
                 "to": {
                     "startLine": 1179,
                     "startColumn": 4,
-                    "startOffset": 87247,
+                    "startOffset": 87240,
                     "endLine": 1185,
                     "endColumn": 12,
-                    "endOffset": 87580
+                    "endOffset": 87573
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6068,10 +6068,10 @@
                 "to": {
                     "startLine": 1186,
                     "startColumn": 4,
-                    "startOffset": 87585,
+                    "startOffset": 87578,
                     "endLine": 1191,
                     "endColumn": 12,
-                    "endOffset": 87933
+                    "endOffset": 87926
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6089,9 +6089,9 @@
                 "to": {
                     "startLine": 1192,
                     "startColumn": 4,
-                    "startOffset": 87938,
+                    "startOffset": 87931,
                     "endColumn": 93,
-                    "endOffset": 88027
+                    "endOffset": 88020
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6108,10 +6108,10 @@
                 "to": {
                     "startLine": 1193,
                     "startColumn": 4,
-                    "startOffset": 88032,
+                    "startOffset": 88025,
                     "endLine": 1195,
                     "endColumn": 12,
-                    "endOffset": 88213
+                    "endOffset": 88206
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6129,10 +6129,10 @@
                 "to": {
                     "startLine": 1196,
                     "startColumn": 4,
-                    "startOffset": 88218,
+                    "startOffset": 88211,
                     "endLine": 1199,
                     "endColumn": 12,
-                    "endOffset": 88519
+                    "endOffset": 88512
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6150,10 +6150,10 @@
                 "to": {
                     "startLine": 1200,
                     "startColumn": 4,
-                    "startOffset": 88524,
+                    "startOffset": 88517,
                     "endLine": 1204,
                     "endColumn": 12,
-                    "endOffset": 88781
+                    "endOffset": 88774
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6171,10 +6171,10 @@
                 "to": {
                     "startLine": 1205,
                     "startColumn": 4,
-                    "startOffset": 88786,
+                    "startOffset": 88779,
                     "endLine": 1206,
                     "endColumn": 12,
-                    "endOffset": 88906
+                    "endOffset": 88899
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6192,10 +6192,10 @@
                 "to": {
                     "startLine": 1207,
                     "startColumn": 4,
-                    "startOffset": 88911,
+                    "startOffset": 88904,
                     "endLine": 1208,
                     "endColumn": 12,
-                    "endOffset": 89033
+                    "endOffset": 89026
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6213,10 +6213,10 @@
                 "to": {
                     "startLine": 1209,
                     "startColumn": 4,
-                    "startOffset": 89038,
+                    "startOffset": 89031,
                     "endLine": 1211,
                     "endColumn": 12,
-                    "endOffset": 89272
+                    "endOffset": 89265
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6234,10 +6234,10 @@
                 "to": {
                     "startLine": 1212,
                     "startColumn": 4,
-                    "startOffset": 89277,
+                    "startOffset": 89270,
                     "endLine": 1214,
                     "endColumn": 12,
-                    "endOffset": 89483
+                    "endOffset": 89476
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6255,10 +6255,10 @@
                 "to": {
                     "startLine": 1215,
                     "startColumn": 4,
-                    "startOffset": 89488,
+                    "startOffset": 89481,
                     "endLine": 1216,
                     "endColumn": 12,
-                    "endOffset": 89602
+                    "endOffset": 89595
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6276,10 +6276,10 @@
                 "to": {
                     "startLine": 1217,
                     "startColumn": 4,
-                    "startOffset": 89607,
+                    "startOffset": 89600,
                     "endLine": 1220,
                     "endColumn": 12,
-                    "endOffset": 89795
+                    "endOffset": 89788
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6297,10 +6297,10 @@
                 "to": {
                     "startLine": 1221,
                     "startColumn": 4,
-                    "startOffset": 89800,
+                    "startOffset": 89793,
                     "endLine": 1223,
                     "endColumn": 12,
-                    "endOffset": 89972
+                    "endOffset": 89965
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6318,10 +6318,10 @@
                 "to": {
                     "startLine": 1224,
                     "startColumn": 4,
-                    "startOffset": 89977,
+                    "startOffset": 89970,
                     "endLine": 1230,
                     "endColumn": 12,
-                    "endOffset": 90427
+                    "endOffset": 90420
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6339,10 +6339,10 @@
                 "to": {
                     "startLine": 1231,
                     "startColumn": 4,
-                    "startOffset": 90432,
+                    "startOffset": 90425,
                     "endLine": 1233,
                     "endColumn": 12,
-                    "endOffset": 90608
+                    "endOffset": 90601
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6360,10 +6360,10 @@
                 "to": {
                     "startLine": 1234,
                     "startColumn": 4,
-                    "startOffset": 90613,
+                    "startOffset": 90606,
                     "endLine": 1236,
                     "endColumn": 12,
-                    "endOffset": 90730
+                    "endOffset": 90723
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6381,10 +6381,10 @@
                 "to": {
                     "startLine": 1237,
                     "startColumn": 4,
-                    "startOffset": 90735,
+                    "startOffset": 90728,
                     "endLine": 1240,
                     "endColumn": 12,
-                    "endOffset": 90989
+                    "endOffset": 90982
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6402,10 +6402,10 @@
                 "to": {
                     "startLine": 1241,
                     "startColumn": 4,
-                    "startOffset": 90994,
+                    "startOffset": 90987,
                     "endLine": 1242,
                     "endColumn": 12,
-                    "endOffset": 91102
+                    "endOffset": 91095
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6423,10 +6423,10 @@
                 "to": {
                     "startLine": 1243,
                     "startColumn": 4,
-                    "startOffset": 91107,
+                    "startOffset": 91100,
                     "endLine": 1246,
                     "endColumn": 12,
-                    "endOffset": 91289
+                    "endOffset": 91282
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6444,10 +6444,10 @@
                 "to": {
                     "startLine": 1247,
                     "startColumn": 4,
-                    "startOffset": 91294,
+                    "startOffset": 91287,
                     "endLine": 1248,
                     "endColumn": 12,
-                    "endOffset": 91391
+                    "endOffset": 91384
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6465,10 +6465,10 @@
                 "to": {
                     "startLine": 1249,
                     "startColumn": 4,
-                    "startOffset": 91396,
+                    "startOffset": 91389,
                     "endLine": 1254,
                     "endColumn": 12,
-                    "endOffset": 91835
+                    "endOffset": 91828
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6486,10 +6486,10 @@
                 "to": {
                     "startLine": 1255,
                     "startColumn": 4,
-                    "startOffset": 91840,
+                    "startOffset": 91833,
                     "endLine": 1256,
                     "endColumn": 12,
-                    "endOffset": 91959
+                    "endOffset": 91952
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6507,10 +6507,10 @@
                 "to": {
                     "startLine": 1257,
                     "startColumn": 4,
-                    "startOffset": 91964,
+                    "startOffset": 91957,
                     "endLine": 1260,
                     "endColumn": 12,
-                    "endOffset": 92234
+                    "endOffset": 92227
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6528,10 +6528,10 @@
                 "to": {
                     "startLine": 1261,
                     "startColumn": 4,
-                    "startOffset": 92239,
+                    "startOffset": 92232,
                     "endLine": 1268,
                     "endColumn": 12,
-                    "endOffset": 92742
+                    "endOffset": 92735
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6549,10 +6549,10 @@
                 "to": {
                     "startLine": 1269,
                     "startColumn": 4,
-                    "startOffset": 92747,
+                    "startOffset": 92740,
                     "endLine": 1276,
                     "endColumn": 12,
-                    "endOffset": 93238
+                    "endOffset": 93231
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6570,10 +6570,10 @@
                 "to": {
                     "startLine": 1277,
                     "startColumn": 4,
-                    "startOffset": 93243,
+                    "startOffset": 93236,
                     "endLine": 1288,
                     "endColumn": 12,
-                    "endOffset": 94115
+                    "endOffset": 94108
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6591,10 +6591,10 @@
                 "to": {
                     "startLine": 1289,
                     "startColumn": 4,
-                    "startOffset": 94120,
+                    "startOffset": 94113,
                     "endLine": 1294,
                     "endColumn": 12,
-                    "endOffset": 94409
+                    "endOffset": 94402
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6612,10 +6612,10 @@
                 "to": {
                     "startLine": 1295,
                     "startColumn": 4,
-                    "startOffset": 94414,
+                    "startOffset": 94407,
                     "endLine": 1303,
                     "endColumn": 12,
-                    "endOffset": 94979
+                    "endOffset": 94972
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6633,10 +6633,10 @@
                 "to": {
                     "startLine": 1304,
                     "startColumn": 4,
-                    "startOffset": 94984,
+                    "startOffset": 94977,
                     "endLine": 1306,
                     "endColumn": 12,
-                    "endOffset": 95128
+                    "endOffset": 95121
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6654,10 +6654,10 @@
                 "to": {
                     "startLine": 1307,
                     "startColumn": 4,
-                    "startOffset": 95133,
+                    "startOffset": 95126,
                     "endLine": 1317,
                     "endColumn": 12,
-                    "endOffset": 95860
+                    "endOffset": 95853
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6675,10 +6675,10 @@
                 "to": {
                     "startLine": 1318,
                     "startColumn": 4,
-                    "startOffset": 95865,
+                    "startOffset": 95858,
                     "endLine": 1320,
                     "endColumn": 12,
-                    "endOffset": 96032
+                    "endOffset": 96025
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6696,10 +6696,10 @@
                 "to": {
                     "startLine": 1321,
                     "startColumn": 4,
-                    "startOffset": 96037,
+                    "startOffset": 96030,
                     "endLine": 1325,
                     "endColumn": 12,
-                    "endOffset": 96368
+                    "endOffset": 96361
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6717,10 +6717,10 @@
                 "to": {
                     "startLine": 1326,
                     "startColumn": 4,
-                    "startOffset": 96373,
+                    "startOffset": 96366,
                     "endLine": 1339,
                     "endColumn": 12,
-                    "endOffset": 97426
+                    "endOffset": 97419
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6738,10 +6738,10 @@
                 "to": {
                     "startLine": 1340,
                     "startColumn": 4,
-                    "startOffset": 97431,
+                    "startOffset": 97424,
                     "endLine": 1344,
                     "endColumn": 12,
-                    "endOffset": 97704
+                    "endOffset": 97697
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6759,10 +6759,10 @@
                 "to": {
                     "startLine": 1345,
                     "startColumn": 4,
-                    "startOffset": 97709,
+                    "startOffset": 97702,
                     "endLine": 1386,
                     "endColumn": 12,
-                    "endOffset": 100885
+                    "endOffset": 100878
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6780,10 +6780,10 @@
                 "to": {
                     "startLine": 1387,
                     "startColumn": 4,
-                    "startOffset": 100890,
+                    "startOffset": 100883,
                     "endLine": 1429,
                     "endColumn": 12,
-                    "endOffset": 104206
+                    "endOffset": 104199
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6801,9 +6801,9 @@
                 "to": {
                     "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 104211,
+                    "startOffset": 104204,
                     "endColumn": 61,
-                    "endOffset": 104268
+                    "endOffset": 104261
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6820,10 +6820,10 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 104273,
+                    "startOffset": 104266,
                     "endLine": 1440,
                     "endColumn": 12,
-                    "endOffset": 104898
+                    "endOffset": 104891
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6841,10 +6841,10 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 104903,
+                    "startOffset": 104896,
                     "endLine": 1449,
                     "endColumn": 12,
-                    "endOffset": 105512
+                    "endOffset": 105505
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6862,9 +6862,9 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 105517,
+                    "startOffset": 105510,
                     "endColumn": 85,
-                    "endOffset": 105598
+                    "endOffset": 105591
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6881,10 +6881,10 @@
                 "to": {
                     "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 105603,
+                    "startOffset": 105596,
                     "endLine": 1452,
                     "endColumn": 12,
-                    "endOffset": 105711
+                    "endOffset": 105704
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6902,10 +6902,10 @@
                 "to": {
                     "startLine": 1453,
                     "startColumn": 4,
-                    "startOffset": 105716,
+                    "startOffset": 105709,
                     "endLine": 1456,
                     "endColumn": 12,
-                    "endOffset": 105940
+                    "endOffset": 105933
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6923,10 +6923,10 @@
                 "to": {
                     "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 105945,
+                    "startOffset": 105938,
                     "endLine": 1459,
                     "endColumn": 12,
-                    "endOffset": 106100
+                    "endOffset": 106093
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6944,10 +6944,10 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 106105,
+                    "startOffset": 106098,
                     "endLine": 1462,
                     "endColumn": 12,
-                    "endOffset": 106252
+                    "endOffset": 106245
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6965,10 +6965,10 @@
                 "to": {
                     "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 106257,
+                    "startOffset": 106250,
                     "endLine": 1465,
                     "endColumn": 12,
-                    "endOffset": 106423
+                    "endOffset": 106416
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -6986,10 +6986,10 @@
                 "to": {
                     "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 106428,
+                    "startOffset": 106421,
                     "endLine": 1468,
                     "endColumn": 12,
-                    "endOffset": 106590
+                    "endOffset": 106583
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7007,10 +7007,10 @@
                 "to": {
                     "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 106595,
+                    "startOffset": 106588,
                     "endLine": 1472,
                     "endColumn": 12,
-                    "endOffset": 106833
+                    "endOffset": 106826
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7028,10 +7028,10 @@
                 "to": {
                     "startLine": 1473,
                     "startColumn": 4,
-                    "startOffset": 106838,
+                    "startOffset": 106831,
                     "endLine": 1475,
                     "endColumn": 12,
-                    "endOffset": 107003
+                    "endOffset": 106996
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7049,10 +7049,10 @@
                 "to": {
                     "startLine": 1476,
                     "startColumn": 4,
-                    "startOffset": 107008,
+                    "startOffset": 107001,
                     "endLine": 1478,
                     "endColumn": 12,
-                    "endOffset": 107176
+                    "endOffset": 107169
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7070,10 +7070,10 @@
                 "to": {
                     "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 107181,
+                    "startOffset": 107174,
                     "endLine": 1481,
                     "endColumn": 12,
-                    "endOffset": 107347
+                    "endOffset": 107340
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7091,10 +7091,10 @@
                 "to": {
                     "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 107352,
+                    "startOffset": 107345,
                     "endLine": 1485,
                     "endColumn": 12,
-                    "endOffset": 107621
+                    "endOffset": 107614
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7112,10 +7112,10 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 107626,
+                    "startOffset": 107619,
                     "endLine": 1488,
                     "endColumn": 12,
-                    "endOffset": 107820
+                    "endOffset": 107813
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7133,10 +7133,10 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 107825,
+                    "startOffset": 107818,
                     "endLine": 1492,
                     "endColumn": 12,
-                    "endOffset": 108025
+                    "endOffset": 108018
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7154,10 +7154,10 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 108030,
+                    "startOffset": 108023,
                     "endLine": 1496,
                     "endColumn": 12,
-                    "endOffset": 108355
+                    "endOffset": 108348
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7175,9 +7175,9 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 108360,
+                    "startOffset": 108353,
                     "endColumn": 83,
-                    "endOffset": 108439
+                    "endOffset": 108432
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7194,9 +7194,9 @@
                 "to": {
                     "startLine": 1498,
                     "startColumn": 4,
-                    "startOffset": 108444,
+                    "startOffset": 108437,
                     "endColumn": 95,
-                    "endOffset": 108535
+                    "endOffset": 108528
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7213,9 +7213,9 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 108540,
+                    "startOffset": 108533,
                     "endColumn": 95,
-                    "endOffset": 108631
+                    "endOffset": 108624
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7232,9 +7232,9 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 108636,
+                    "startOffset": 108629,
                     "endColumn": 97,
-                    "endOffset": 108729
+                    "endOffset": 108722
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7251,9 +7251,9 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 108734,
+                    "startOffset": 108727,
                     "endColumn": 99,
-                    "endOffset": 108829
+                    "endOffset": 108822
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7270,9 +7270,9 @@
                 "to": {
                     "startLine": 1502,
                     "startColumn": 4,
-                    "startOffset": 108834,
+                    "startOffset": 108827,
                     "endColumn": 101,
-                    "endOffset": 108931
+                    "endOffset": 108924
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7289,9 +7289,9 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 108936,
+                    "startOffset": 108929,
                     "endColumn": 101,
-                    "endOffset": 109033
+                    "endOffset": 109026
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7308,9 +7308,9 @@
                 "to": {
                     "startLine": 1504,
                     "startColumn": 4,
-                    "startOffset": 109038,
+                    "startOffset": 109031,
                     "endColumn": 101,
-                    "endOffset": 109135
+                    "endOffset": 109128
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7327,9 +7327,9 @@
                 "to": {
                     "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 109140,
+                    "startOffset": 109133,
                     "endColumn": 101,
-                    "endOffset": 109237
+                    "endOffset": 109230
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7346,9 +7346,9 @@
                 "to": {
                     "startLine": 1506,
                     "startColumn": 4,
-                    "startOffset": 109242,
+                    "startOffset": 109235,
                     "endColumn": 101,
-                    "endOffset": 109339
+                    "endOffset": 109332
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7365,9 +7365,9 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 109344,
+                    "startOffset": 109337,
                     "endColumn": 99,
-                    "endOffset": 109439
+                    "endOffset": 109432
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7384,9 +7384,9 @@
                 "to": {
                     "startLine": 1508,
                     "startColumn": 4,
-                    "startOffset": 109444,
+                    "startOffset": 109437,
                     "endColumn": 95,
-                    "endOffset": 109535
+                    "endOffset": 109528
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7403,9 +7403,9 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 109540,
+                    "startOffset": 109533,
                     "endColumn": 111,
-                    "endOffset": 109647
+                    "endOffset": 109640
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7422,9 +7422,9 @@
                 "to": {
                     "startLine": 1510,
                     "startColumn": 4,
-                    "startOffset": 109652,
+                    "startOffset": 109645,
                     "endColumn": 128,
-                    "endOffset": 109776
+                    "endOffset": 109769
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7441,9 +7441,9 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 109781,
+                    "startOffset": 109774,
                     "endColumn": 122,
-                    "endOffset": 109899
+                    "endOffset": 109892
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7460,9 +7460,9 @@
                 "to": {
                     "startLine": 1512,
                     "startColumn": 4,
-                    "startOffset": 109904,
+                    "startOffset": 109897,
                     "endColumn": 130,
-                    "endOffset": 110030
+                    "endOffset": 110023
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7479,9 +7479,9 @@
                 "to": {
                     "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 110035,
+                    "startOffset": 110028,
                     "endColumn": 130,
-                    "endOffset": 110161
+                    "endOffset": 110154
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7498,9 +7498,9 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 110166,
+                    "startOffset": 110159,
                     "endColumn": 97,
-                    "endOffset": 110259
+                    "endOffset": 110252
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7517,9 +7517,9 @@
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 110264,
+                    "startOffset": 110257,
                     "endColumn": 113,
-                    "endOffset": 110373
+                    "endOffset": 110366
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7536,9 +7536,9 @@
                 "to": {
                     "startLine": 1516,
                     "startColumn": 4,
-                    "startOffset": 110378,
+                    "startOffset": 110371,
                     "endColumn": 93,
-                    "endOffset": 110467
+                    "endOffset": 110460
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7555,10 +7555,10 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 110472,
+                    "startOffset": 110465,
                     "endLine": 1518,
                     "endColumn": 12,
-                    "endOffset": 110607
+                    "endOffset": 110600
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7576,10 +7576,10 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 110612,
+                    "startOffset": 110605,
                     "endLine": 1520,
                     "endColumn": 12,
-                    "endOffset": 110741
+                    "endOffset": 110734
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7597,9 +7597,9 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 110746,
+                    "startOffset": 110739,
                     "endColumn": 95,
-                    "endOffset": 110837
+                    "endOffset": 110830
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7616,9 +7616,9 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 110842,
+                    "startOffset": 110835,
                     "endColumn": 111,
-                    "endOffset": 110949
+                    "endOffset": 110942
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7635,9 +7635,9 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 110954,
+                    "startOffset": 110947,
                     "endColumn": 99,
-                    "endOffset": 111049
+                    "endOffset": 111042
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7654,9 +7654,9 @@
                 "to": {
                     "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 111054,
+                    "startOffset": 111047,
                     "endColumn": 115,
-                    "endOffset": 111165
+                    "endOffset": 111158
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7673,9 +7673,9 @@
                 "to": {
                     "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 111170,
+                    "startOffset": 111163,
                     "endColumn": 95,
-                    "endOffset": 111261
+                    "endOffset": 111254
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7692,9 +7692,9 @@
                 "to": {
                     "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 111266,
+                    "startOffset": 111259,
                     "endColumn": 111,
-                    "endOffset": 111373
+                    "endOffset": 111366
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7711,10 +7711,10 @@
                 "to": {
                     "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 111378,
+                    "startOffset": 111371,
                     "endLine": 1528,
                     "endColumn": 12,
-                    "endOffset": 111513
+                    "endOffset": 111506
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7732,9 +7732,9 @@
                 "to": {
                     "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 111518,
+                    "startOffset": 111511,
                     "endColumn": 135,
-                    "endOffset": 111649
+                    "endOffset": 111642
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7751,10 +7751,10 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 111654,
+                    "startOffset": 111647,
                     "endLine": 1531,
                     "endColumn": 12,
-                    "endOffset": 111813
+                    "endOffset": 111806
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7772,9 +7772,9 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 111818,
+                    "startOffset": 111811,
                     "endColumn": 129,
-                    "endOffset": 111943
+                    "endOffset": 111936
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7791,10 +7791,10 @@
                 "to": {
                     "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 111948,
+                    "startOffset": 111941,
                     "endLine": 1534,
                     "endColumn": 12,
-                    "endOffset": 112101
+                    "endOffset": 112094
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7812,10 +7812,10 @@
                 "to": {
                     "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 112106,
+                    "startOffset": 112099,
                     "endLine": 1536,
                     "endColumn": 12,
-                    "endOffset": 112251
+                    "endOffset": 112244
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7833,9 +7833,9 @@
                 "to": {
                     "startLine": 1537,
                     "startColumn": 4,
-                    "startOffset": 112256,
+                    "startOffset": 112249,
                     "endColumn": 140,
-                    "endOffset": 112392
+                    "endOffset": 112385
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7852,10 +7852,10 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 112397,
+                    "startOffset": 112390,
                     "endLine": 1539,
                     "endColumn": 12,
-                    "endOffset": 112536
+                    "endOffset": 112529
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7873,9 +7873,9 @@
                 "to": {
                     "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 112541,
+                    "startOffset": 112534,
                     "endColumn": 134,
-                    "endOffset": 112671
+                    "endOffset": 112664
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7892,9 +7892,9 @@
                 "to": {
                     "startLine": 1541,
                     "startColumn": 4,
-                    "startOffset": 112676,
+                    "startOffset": 112669,
                     "endColumn": 111,
-                    "endOffset": 112783
+                    "endOffset": 112776
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7911,9 +7911,9 @@
                 "to": {
                     "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 112788,
+                    "startOffset": 112781,
                     "endColumn": 127,
-                    "endOffset": 112911
+                    "endOffset": 112904
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7930,10 +7930,10 @@
                 "to": {
                     "startLine": 1543,
                     "startColumn": 4,
-                    "startOffset": 112916,
+                    "startOffset": 112909,
                     "endLine": 1544,
                     "endColumn": 12,
-                    "endOffset": 113047
+                    "endOffset": 113040
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7951,9 +7951,9 @@
                 "to": {
                     "startLine": 1545,
                     "startColumn": 4,
-                    "startOffset": 113052,
+                    "startOffset": 113045,
                     "endColumn": 131,
-                    "endOffset": 113179
+                    "endOffset": 113172
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7970,9 +7970,9 @@
                 "to": {
                     "startLine": 1546,
                     "startColumn": 4,
-                    "startOffset": 113184,
+                    "startOffset": 113177,
                     "endColumn": 129,
-                    "endOffset": 113309
+                    "endOffset": 113302
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -7989,9 +7989,9 @@
                 "to": {
                     "startLine": 1547,
                     "startColumn": 4,
-                    "startOffset": 113314,
+                    "startOffset": 113307,
                     "endColumn": 129,
-                    "endOffset": 113439
+                    "endOffset": 113432
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8008,9 +8008,9 @@
                 "to": {
                     "startLine": 1548,
                     "startColumn": 4,
-                    "startOffset": 113444,
+                    "startOffset": 113437,
                     "endColumn": 111,
-                    "endOffset": 113551
+                    "endOffset": 113544
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8027,9 +8027,9 @@
                 "to": {
                     "startLine": 1549,
                     "startColumn": 4,
-                    "startOffset": 113556,
+                    "startOffset": 113549,
                     "endColumn": 139,
-                    "endOffset": 113691
+                    "endOffset": 113684
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8046,9 +8046,9 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 113696,
+                    "startOffset": 113689,
                     "endColumn": 67,
-                    "endOffset": 113759
+                    "endOffset": 113752
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8065,9 +8065,9 @@
                 "to": {
                     "startLine": 1551,
                     "startColumn": 4,
-                    "startOffset": 113764,
+                    "startOffset": 113757,
                     "endColumn": 72,
-                    "endOffset": 113832
+                    "endOffset": 113825
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8084,9 +8084,9 @@
                 "to": {
                     "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 113837,
+                    "startOffset": 113830,
                     "endColumn": 73,
-                    "endOffset": 113906
+                    "endOffset": 113899
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8103,9 +8103,9 @@
                 "to": {
                     "startLine": 1553,
                     "startColumn": 4,
-                    "startOffset": 113911,
+                    "startOffset": 113904,
                     "endColumn": 72,
-                    "endOffset": 113979
+                    "endOffset": 113972
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8122,9 +8122,9 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 113984,
+                    "startOffset": 113977,
                     "endColumn": 73,
-                    "endOffset": 114053
+                    "endOffset": 114046
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8141,10 +8141,10 @@
                 "to": {
                     "startLine": 1555,
                     "startColumn": 4,
-                    "startOffset": 114058,
+                    "startOffset": 114051,
                     "endLine": 1556,
                     "endColumn": 12,
-                    "endOffset": 114199
+                    "endOffset": 114192
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8162,10 +8162,10 @@
                 "to": {
                     "startLine": 1557,
                     "startColumn": 4,
-                    "startOffset": 114204,
+                    "startOffset": 114197,
                     "endLine": 1558,
                     "endColumn": 12,
-                    "endOffset": 114343
+                    "endOffset": 114336
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8183,10 +8183,10 @@
                 "to": {
                     "startLine": 1559,
                     "startColumn": 4,
-                    "startOffset": 114348,
+                    "startOffset": 114341,
                     "endLine": 1560,
                     "endColumn": 12,
-                    "endOffset": 114481
+                    "endOffset": 114474
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8204,9 +8204,9 @@
                 "to": {
                     "startLine": 1561,
                     "startColumn": 4,
-                    "startOffset": 114486,
+                    "startOffset": 114479,
                     "endColumn": 65,
-                    "endOffset": 114547
+                    "endOffset": 114540
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8223,9 +8223,9 @@
                 "to": {
                     "startLine": 1562,
                     "startColumn": 4,
-                    "startOffset": 114552,
+                    "startOffset": 114545,
                     "endColumn": 89,
-                    "endOffset": 114637
+                    "endOffset": 114630
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8242,9 +8242,9 @@
                 "to": {
                     "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 114642,
+                    "startOffset": 114635,
                     "endColumn": 75,
-                    "endOffset": 114713
+                    "endOffset": 114706
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8261,9 +8261,9 @@
                 "to": {
                     "startLine": 1564,
                     "startColumn": 4,
-                    "startOffset": 114718,
+                    "startOffset": 114711,
                     "endColumn": 103,
-                    "endOffset": 114817
+                    "endOffset": 114810
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8280,9 +8280,9 @@
                 "to": {
                     "startLine": 1565,
                     "startColumn": 4,
-                    "startOffset": 114822,
+                    "startOffset": 114815,
                     "endColumn": 89,
-                    "endOffset": 114907
+                    "endOffset": 114900
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8299,9 +8299,9 @@
                 "to": {
                     "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 114912,
+                    "startOffset": 114905,
                     "endColumn": 101,
-                    "endOffset": 115009
+                    "endOffset": 115002
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8318,9 +8318,9 @@
                 "to": {
                     "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 115014,
+                    "startOffset": 115007,
                     "endColumn": 107,
-                    "endOffset": 115117
+                    "endOffset": 115110
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8337,9 +8337,9 @@
                 "to": {
                     "startLine": 1568,
                     "startColumn": 4,
-                    "startOffset": 115122,
+                    "startOffset": 115115,
                     "endColumn": 107,
-                    "endOffset": 115225
+                    "endOffset": 115218
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8356,9 +8356,9 @@
                 "to": {
                     "startLine": 1569,
                     "startColumn": 4,
-                    "startOffset": 115230,
+                    "startOffset": 115223,
                     "endColumn": 99,
-                    "endOffset": 115325
+                    "endOffset": 115318
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8375,9 +8375,9 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 115330,
+                    "startOffset": 115323,
                     "endColumn": 79,
-                    "endOffset": 115405
+                    "endOffset": 115398
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8394,9 +8394,9 @@
                 "to": {
                     "startLine": 1571,
                     "startColumn": 4,
-                    "startOffset": 115410,
+                    "startOffset": 115403,
                     "endColumn": 91,
-                    "endOffset": 115497
+                    "endOffset": 115490
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8413,9 +8413,9 @@
                 "to": {
                     "startLine": 1572,
                     "startColumn": 4,
-                    "startOffset": 115502,
+                    "startOffset": 115495,
                     "endColumn": 97,
-                    "endOffset": 115595
+                    "endOffset": 115588
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8432,10 +8432,10 @@
                 "to": {
                     "startLine": 1573,
                     "startColumn": 4,
-                    "startOffset": 115600,
+                    "startOffset": 115593,
                     "endLine": 1574,
                     "endColumn": 12,
-                    "endOffset": 115705
+                    "endOffset": 115698
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8453,9 +8453,9 @@
                 "to": {
                     "startLine": 1575,
                     "startColumn": 4,
-                    "startOffset": 115710,
+                    "startOffset": 115703,
                     "endColumn": 77,
-                    "endOffset": 115783
+                    "endOffset": 115776
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8472,9 +8472,9 @@
                 "to": {
                     "startLine": 1576,
                     "startColumn": 4,
-                    "startOffset": 115788,
+                    "startOffset": 115781,
                     "endColumn": 105,
-                    "endOffset": 115889
+                    "endOffset": 115882
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8491,9 +8491,9 @@
                 "to": {
                     "startLine": 1577,
                     "startColumn": 4,
-                    "startOffset": 115894,
+                    "startOffset": 115887,
                     "endColumn": 91,
-                    "endOffset": 115981
+                    "endOffset": 115974
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8510,9 +8510,9 @@
                 "to": {
                     "startLine": 1578,
                     "startColumn": 4,
-                    "startOffset": 115986,
+                    "startOffset": 115979,
                     "endColumn": 103,
-                    "endOffset": 116085
+                    "endOffset": 116078
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8529,9 +8529,9 @@
                 "to": {
                     "startLine": 1579,
                     "startColumn": 4,
-                    "startOffset": 116090,
+                    "startOffset": 116083,
                     "endColumn": 109,
-                    "endOffset": 116195
+                    "endOffset": 116188
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8548,10 +8548,10 @@
                 "to": {
                     "startLine": 1580,
                     "startColumn": 4,
-                    "startOffset": 116200,
+                    "startOffset": 116193,
                     "endLine": 1581,
                     "endColumn": 12,
-                    "endOffset": 116317
+                    "endOffset": 116310
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8569,10 +8569,10 @@
                 "to": {
                     "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 116322,
+                    "startOffset": 116315,
                     "endLine": 1585,
                     "endColumn": 12,
-                    "endOffset": 116480
+                    "endOffset": 116473
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8590,10 +8590,10 @@
                 "to": {
                     "startLine": 1586,
                     "startColumn": 4,
-                    "startOffset": 116485,
+                    "startOffset": 116478,
                     "endLine": 1589,
                     "endColumn": 12,
-                    "endOffset": 116637
+                    "endOffset": 116630
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8611,9 +8611,9 @@
                 "to": {
                     "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 116642,
+                    "startOffset": 116635,
                     "endColumn": 79,
-                    "endOffset": 116717
+                    "endOffset": 116710
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8630,9 +8630,9 @@
                 "to": {
                     "startLine": 1591,
                     "startColumn": 4,
-                    "startOffset": 116722,
+                    "startOffset": 116715,
                     "endColumn": 99,
-                    "endOffset": 116817
+                    "endOffset": 116810
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8649,9 +8649,9 @@
                 "to": {
                     "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 116822,
+                    "startOffset": 116815,
                     "endColumn": 89,
-                    "endOffset": 116907
+                    "endOffset": 116900
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8668,9 +8668,9 @@
                 "to": {
                     "startLine": 1593,
                     "startColumn": 4,
-                    "startOffset": 116912,
+                    "startOffset": 116905,
                     "endColumn": 109,
-                    "endOffset": 117017
+                    "endOffset": 117010
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8687,9 +8687,9 @@
                 "to": {
                     "startLine": 1594,
                     "startColumn": 4,
-                    "startOffset": 117022,
+                    "startOffset": 117015,
                     "endColumn": 93,
-                    "endOffset": 117111
+                    "endOffset": 117104
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8706,9 +8706,9 @@
                 "to": {
                     "startLine": 1595,
                     "startColumn": 4,
-                    "startOffset": 117116,
+                    "startOffset": 117109,
                     "endColumn": 105,
-                    "endOffset": 117217
+                    "endOffset": 117210
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8725,9 +8725,9 @@
                 "to": {
                     "startLine": 1596,
                     "startColumn": 4,
-                    "startOffset": 117222,
+                    "startOffset": 117215,
                     "endColumn": 91,
-                    "endOffset": 117309
+                    "endOffset": 117302
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8744,10 +8744,10 @@
                 "to": {
                     "startLine": 1597,
                     "startColumn": 4,
-                    "startOffset": 117314,
+                    "startOffset": 117307,
                     "endLine": 1598,
                     "endColumn": 12,
-                    "endOffset": 117409
+                    "endOffset": 117402
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8765,10 +8765,10 @@
                 "to": {
                     "startLine": 1599,
                     "startColumn": 4,
-                    "startOffset": 117414,
+                    "startOffset": 117407,
                     "endLine": 1600,
                     "endColumn": 12,
-                    "endOffset": 117521
+                    "endOffset": 117514
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8786,10 +8786,10 @@
                 "to": {
                     "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 117526,
+                    "startOffset": 117519,
                     "endLine": 1602,
                     "endColumn": 12,
-                    "endOffset": 117635
+                    "endOffset": 117628
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8807,10 +8807,10 @@
                 "to": {
                     "startLine": 1603,
                     "startColumn": 4,
-                    "startOffset": 117640,
+                    "startOffset": 117633,
                     "endLine": 1604,
                     "endColumn": 12,
-                    "endOffset": 117751
+                    "endOffset": 117744
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8828,10 +8828,10 @@
                 "to": {
                     "startLine": 1605,
                     "startColumn": 4,
-                    "startOffset": 117756,
+                    "startOffset": 117749,
                     "endLine": 1606,
                     "endColumn": 12,
-                    "endOffset": 117867
+                    "endOffset": 117860
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8849,9 +8849,9 @@
                 "to": {
                     "startLine": 1607,
                     "startColumn": 4,
-                    "startOffset": 117872,
+                    "startOffset": 117865,
                     "endColumn": 93,
-                    "endOffset": 117961
+                    "endOffset": 117954
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8868,9 +8868,9 @@
                 "to": {
                     "startLine": 1608,
                     "startColumn": 4,
-                    "startOffset": 117966,
+                    "startOffset": 117959,
                     "endColumn": 113,
-                    "endOffset": 118075
+                    "endOffset": 118068
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8887,9 +8887,9 @@
                 "to": {
                     "startLine": 1609,
                     "startColumn": 4,
-                    "startOffset": 118080,
+                    "startOffset": 118073,
                     "endColumn": 111,
-                    "endOffset": 118187
+                    "endOffset": 118180
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8906,10 +8906,10 @@
                 "to": {
                     "startLine": 1610,
                     "startColumn": 4,
-                    "startOffset": 118192,
+                    "startOffset": 118185,
                     "endLine": 1611,
                     "endColumn": 12,
-                    "endOffset": 118289
+                    "endOffset": 118282
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8927,10 +8927,10 @@
                 "to": {
                     "startLine": 1612,
                     "startColumn": 4,
-                    "startOffset": 118294,
+                    "startOffset": 118287,
                     "endLine": 1613,
                     "endColumn": 12,
-                    "endOffset": 118409
+                    "endOffset": 118402
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8948,10 +8948,10 @@
                 "to": {
                     "startLine": 1614,
                     "startColumn": 4,
-                    "startOffset": 118414,
+                    "startOffset": 118407,
                     "endLine": 1615,
                     "endColumn": 12,
-                    "endOffset": 118531
+                    "endOffset": 118524
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8969,9 +8969,9 @@
                 "to": {
                     "startLine": 1616,
                     "startColumn": 4,
-                    "startOffset": 118536,
+                    "startOffset": 118529,
                     "endColumn": 81,
-                    "endOffset": 118613
+                    "endOffset": 118606
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -8988,9 +8988,9 @@
                 "to": {
                     "startLine": 1617,
                     "startColumn": 4,
-                    "startOffset": 118618,
+                    "startOffset": 118611,
                     "endColumn": 103,
-                    "endOffset": 118717
+                    "endOffset": 118710
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9007,9 +9007,9 @@
                 "to": {
                     "startLine": 1618,
                     "startColumn": 4,
-                    "startOffset": 118722,
+                    "startOffset": 118715,
                     "endColumn": 119,
-                    "endOffset": 118837
+                    "endOffset": 118830
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9026,9 +9026,9 @@
                 "to": {
                     "startLine": 1619,
                     "startColumn": 4,
-                    "startOffset": 118842,
+                    "startOffset": 118835,
                     "endColumn": 125,
-                    "endOffset": 118963
+                    "endOffset": 118956
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9045,9 +9045,9 @@
                 "to": {
                     "startLine": 1620,
                     "startColumn": 4,
-                    "startOffset": 118968,
+                    "startOffset": 118961,
                     "endColumn": 97,
-                    "endOffset": 119061
+                    "endOffset": 119054
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9064,9 +9064,9 @@
                 "to": {
                     "startLine": 1621,
                     "startColumn": 4,
-                    "startOffset": 119066,
+                    "startOffset": 119059,
                     "endColumn": 93,
-                    "endOffset": 119155
+                    "endOffset": 119148
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9083,9 +9083,9 @@
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
-                    "startOffset": 119160,
+                    "startOffset": 119153,
                     "endColumn": 87,
-                    "endOffset": 119243
+                    "endOffset": 119236
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9102,9 +9102,9 @@
                 "to": {
                     "startLine": 1623,
                     "startColumn": 4,
-                    "startOffset": 119248,
+                    "startOffset": 119241,
                     "endColumn": 111,
-                    "endOffset": 119355
+                    "endOffset": 119348
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9121,9 +9121,9 @@
                 "to": {
                     "startLine": 1624,
                     "startColumn": 4,
-                    "startOffset": 119360,
+                    "startOffset": 119353,
                     "endColumn": 115,
-                    "endOffset": 119471
+                    "endOffset": 119464
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9140,9 +9140,9 @@
                 "to": {
                     "startLine": 1625,
                     "startColumn": 4,
-                    "startOffset": 119476,
+                    "startOffset": 119469,
                     "endColumn": 121,
-                    "endOffset": 119593
+                    "endOffset": 119586
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9159,9 +9159,9 @@
                 "to": {
                     "startLine": 1626,
                     "startColumn": 4,
-                    "startOffset": 119598,
+                    "startOffset": 119591,
                     "endColumn": 111,
-                    "endOffset": 119705
+                    "endOffset": 119698
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9178,10 +9178,10 @@
                 "to": {
                     "startLine": 1627,
                     "startColumn": 4,
-                    "startOffset": 119710,
+                    "startOffset": 119703,
                     "endLine": 1629,
                     "endColumn": 12,
-                    "endOffset": 119880
+                    "endOffset": 119873
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9199,9 +9199,9 @@
                 "to": {
                     "startLine": 1630,
                     "startColumn": 4,
-                    "startOffset": 119885,
+                    "startOffset": 119878,
                     "endColumn": 115,
-                    "endOffset": 119996
+                    "endOffset": 119989
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9218,9 +9218,9 @@
                 "to": {
                     "startLine": 1631,
                     "startColumn": 4,
-                    "startOffset": 120001,
+                    "startOffset": 119994,
                     "endColumn": 85,
-                    "endOffset": 120082
+                    "endOffset": 120075
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9237,9 +9237,9 @@
                 "to": {
                     "startLine": 1632,
                     "startColumn": 4,
-                    "startOffset": 120087,
+                    "startOffset": 120080,
                     "endColumn": 91,
-                    "endOffset": 120174
+                    "endOffset": 120167
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9256,10 +9256,10 @@
                 "to": {
                     "startLine": 1633,
                     "startColumn": 4,
-                    "startOffset": 120179,
+                    "startOffset": 120172,
                     "endLine": 1634,
                     "endColumn": 12,
-                    "endOffset": 120286
+                    "endOffset": 120279
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9277,10 +9277,10 @@
                 "to": {
                     "startLine": 1635,
                     "startColumn": 4,
-                    "startOffset": 120291,
+                    "startOffset": 120284,
                     "endLine": 1636,
                     "endColumn": 12,
-                    "endOffset": 120410
+                    "endOffset": 120403
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9298,9 +9298,9 @@
                 "to": {
                     "startLine": 1637,
                     "startColumn": 4,
-                    "startOffset": 120415,
+                    "startOffset": 120408,
                     "endColumn": 66,
-                    "endOffset": 120477
+                    "endOffset": 120470
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9317,10 +9317,10 @@
                 "to": {
                     "startLine": 1638,
                     "startColumn": 4,
-                    "startOffset": 120482,
+                    "startOffset": 120475,
                     "endLine": 1639,
                     "endColumn": 12,
-                    "endOffset": 120603
+                    "endOffset": 120596
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9338,9 +9338,9 @@
                 "to": {
                     "startLine": 1640,
                     "startColumn": 4,
-                    "startOffset": 120608,
+                    "startOffset": 120601,
                     "endColumn": 67,
-                    "endOffset": 120671
+                    "endOffset": 120664
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9357,10 +9357,10 @@
                 "to": {
                     "startLine": 1641,
                     "startColumn": 4,
-                    "startOffset": 120676,
+                    "startOffset": 120669,
                     "endLine": 1642,
                     "endColumn": 12,
-                    "endOffset": 120799
+                    "endOffset": 120792
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9378,10 +9378,10 @@
                 "to": {
                     "startLine": 1643,
                     "startColumn": 4,
-                    "startOffset": 120804,
+                    "startOffset": 120797,
                     "endLine": 1644,
                     "endColumn": 12,
-                    "endOffset": 120943
+                    "endOffset": 120936
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9399,10 +9399,10 @@
                 "to": {
                     "startLine": 1645,
                     "startColumn": 4,
-                    "startOffset": 120948,
+                    "startOffset": 120941,
                     "endLine": 1646,
                     "endColumn": 12,
-                    "endOffset": 121071
+                    "endOffset": 121064
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9420,9 +9420,9 @@
                 "to": {
                     "startLine": 1647,
                     "startColumn": 4,
-                    "startOffset": 121076,
+                    "startOffset": 121069,
                     "endColumn": 68,
-                    "endOffset": 121140
+                    "endOffset": 121133
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9439,9 +9439,9 @@
                 "to": {
                     "startLine": 1648,
                     "startColumn": 4,
-                    "startOffset": 121145,
+                    "startOffset": 121138,
                     "endColumn": 94,
-                    "endOffset": 121235
+                    "endOffset": 121228
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9458,9 +9458,9 @@
                 "to": {
                     "startLine": 1649,
                     "startColumn": 4,
-                    "startOffset": 121240,
+                    "startOffset": 121233,
                     "endColumn": 114,
-                    "endOffset": 121350
+                    "endOffset": 121343
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9477,9 +9477,9 @@
                 "to": {
                     "startLine": 1650,
                     "startColumn": 4,
-                    "startOffset": 121355,
+                    "startOffset": 121348,
                     "endColumn": 112,
-                    "endOffset": 121463
+                    "endOffset": 121456
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9496,9 +9496,9 @@
                 "to": {
                     "startLine": 1651,
                     "startColumn": 4,
-                    "startOffset": 121468,
+                    "startOffset": 121461,
                     "endColumn": 98,
-                    "endOffset": 121562
+                    "endOffset": 121555
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9515,9 +9515,9 @@
                 "to": {
                     "startLine": 1652,
                     "startColumn": 4,
-                    "startOffset": 121567,
+                    "startOffset": 121560,
                     "endColumn": 108,
-                    "endOffset": 121671
+                    "endOffset": 121664
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9534,9 +9534,9 @@
                 "to": {
                     "startLine": 1653,
                     "startColumn": 4,
-                    "startOffset": 121676,
+                    "startOffset": 121669,
                     "endColumn": 110,
-                    "endOffset": 121782
+                    "endOffset": 121775
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9553,9 +9553,9 @@
                 "to": {
                     "startLine": 1654,
                     "startColumn": 4,
-                    "startOffset": 121787,
+                    "startOffset": 121780,
                     "endColumn": 110,
-                    "endOffset": 121893
+                    "endOffset": 121886
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9572,9 +9572,9 @@
                 "to": {
                     "startLine": 1655,
                     "startColumn": 4,
-                    "startOffset": 121898,
+                    "startOffset": 121891,
                     "endColumn": 100,
-                    "endOffset": 121994
+                    "endOffset": 121987
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9591,9 +9591,9 @@
                 "to": {
                     "startLine": 1656,
                     "startColumn": 4,
-                    "startOffset": 121999,
+                    "startOffset": 121992,
                     "endColumn": 104,
-                    "endOffset": 122099
+                    "endOffset": 122092
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9610,9 +9610,9 @@
                 "to": {
                     "startLine": 1657,
                     "startColumn": 4,
-                    "startOffset": 122104,
+                    "startOffset": 122097,
                     "endColumn": 99,
-                    "endOffset": 122199
+                    "endOffset": 122192
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9629,10 +9629,10 @@
                 "to": {
                     "startLine": 1658,
                     "startColumn": 4,
-                    "startOffset": 122204,
+                    "startOffset": 122197,
                     "endLine": 1659,
                     "endColumn": 12,
-                    "endOffset": 122329
+                    "endOffset": 122322
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9650,9 +9650,9 @@
                 "to": {
                     "startLine": 1660,
                     "startColumn": 4,
-                    "startOffset": 122334,
+                    "startOffset": 122327,
                     "endColumn": 90,
-                    "endOffset": 122420
+                    "endOffset": 122413
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9669,9 +9669,9 @@
                 "to": {
                     "startLine": 1661,
                     "startColumn": 4,
-                    "startOffset": 122425,
+                    "startOffset": 122418,
                     "endColumn": 122,
-                    "endOffset": 122543
+                    "endOffset": 122536
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9688,9 +9688,9 @@
                 "to": {
                     "startLine": 1662,
                     "startColumn": 4,
-                    "startOffset": 122548,
+                    "startOffset": 122541,
                     "endColumn": 93,
-                    "endOffset": 122637
+                    "endOffset": 122630
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9707,10 +9707,10 @@
                 "to": {
                     "startLine": 1663,
                     "startColumn": 4,
-                    "startOffset": 122642,
+                    "startOffset": 122635,
                     "endLine": 1664,
                     "endColumn": 12,
-                    "endOffset": 122749
+                    "endOffset": 122742
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9728,9 +9728,9 @@
                 "to": {
                     "startLine": 1665,
                     "startColumn": 4,
-                    "startOffset": 122754,
+                    "startOffset": 122747,
                     "endColumn": 85,
-                    "endOffset": 122835
+                    "endOffset": 122828
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9747,9 +9747,9 @@
                 "to": {
                     "startLine": 1666,
                     "startColumn": 4,
-                    "startOffset": 122840,
+                    "startOffset": 122833,
                     "endColumn": 103,
-                    "endOffset": 122939
+                    "endOffset": 122932
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9766,9 +9766,9 @@
                 "to": {
                     "startLine": 1667,
                     "startColumn": 4,
-                    "startOffset": 122944,
+                    "startOffset": 122937,
                     "endColumn": 95,
-                    "endOffset": 123035
+                    "endOffset": 123028
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9785,9 +9785,9 @@
                 "to": {
                     "startLine": 1668,
                     "startColumn": 4,
-                    "startOffset": 123040,
+                    "startOffset": 123033,
                     "endColumn": 87,
-                    "endOffset": 123123
+                    "endOffset": 123116
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9804,10 +9804,10 @@
                 "to": {
                     "startLine": 1669,
                     "startColumn": 4,
-                    "startOffset": 123128,
+                    "startOffset": 123121,
                     "endLine": 1670,
                     "endColumn": 12,
-                    "endOffset": 123241
+                    "endOffset": 123234
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9825,10 +9825,10 @@
                 "to": {
                     "startLine": 1671,
                     "startColumn": 4,
-                    "startOffset": 123246,
+                    "startOffset": 123239,
                     "endLine": 1672,
                     "endColumn": 12,
-                    "endOffset": 123345
+                    "endOffset": 123338
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9846,10 +9846,10 @@
                 "to": {
                     "startLine": 1673,
                     "startColumn": 4,
-                    "startOffset": 123350,
+                    "startOffset": 123343,
                     "endLine": 1674,
                     "endColumn": 12,
-                    "endOffset": 123449
+                    "endOffset": 123442
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9867,10 +9867,10 @@
                 "to": {
                     "startLine": 1675,
                     "startColumn": 4,
-                    "startOffset": 123454,
+                    "startOffset": 123447,
                     "endLine": 1676,
                     "endColumn": 12,
-                    "endOffset": 123575
+                    "endOffset": 123568
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9888,9 +9888,9 @@
                 "to": {
                     "startLine": 1677,
                     "startColumn": 4,
-                    "startOffset": 123580,
+                    "startOffset": 123573,
                     "endColumn": 87,
-                    "endOffset": 123663
+                    "endOffset": 123656
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9907,9 +9907,9 @@
                 "to": {
                     "startLine": 1678,
                     "startColumn": 4,
-                    "startOffset": 123668,
+                    "startOffset": 123661,
                     "endColumn": 107,
-                    "endOffset": 123771
+                    "endOffset": 123764
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9926,9 +9926,9 @@
                 "to": {
                     "startLine": 1679,
                     "startColumn": 4,
-                    "startOffset": 123776,
+                    "startOffset": 123769,
                     "endColumn": 99,
-                    "endOffset": 123871
+                    "endOffset": 123864
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9945,9 +9945,9 @@
                 "to": {
                     "startLine": 1680,
                     "startColumn": 4,
-                    "startOffset": 123876,
+                    "startOffset": 123869,
                     "endColumn": 89,
-                    "endOffset": 123961
+                    "endOffset": 123954
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9964,9 +9964,9 @@
                 "to": {
                     "startLine": 1681,
                     "startColumn": 4,
-                    "startOffset": 123966,
+                    "startOffset": 123959,
                     "endColumn": 109,
-                    "endOffset": 124071
+                    "endOffset": 124064
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -9983,9 +9983,9 @@
                 "to": {
                     "startLine": 1682,
                     "startColumn": 4,
-                    "startOffset": 124076,
+                    "startOffset": 124069,
                     "endColumn": 83,
-                    "endOffset": 124155
+                    "endOffset": 124148
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -10002,9 +10002,9 @@
                 "to": {
                     "startLine": 1683,
                     "startColumn": 4,
-                    "startOffset": 124160,
+                    "startOffset": 124153,
                     "endColumn": 101,
-                    "endOffset": 124257
+                    "endOffset": 124250
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -10021,9 +10021,9 @@
                 "to": {
                     "startLine": 1684,
                     "startColumn": 4,
-                    "startOffset": 124262,
+                    "startOffset": 124255,
                     "endColumn": 83,
-                    "endOffset": 124341
+                    "endOffset": 124334
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -10040,9 +10040,9 @@
                 "to": {
                     "startLine": 1685,
                     "startColumn": 4,
-                    "startOffset": 124346,
+                    "startOffset": 124339,
                     "endColumn": 53,
-                    "endOffset": 124395
+                    "endOffset": 124388
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -10059,9 +10059,9 @@
                 "to": {
                     "startLine": 1686,
                     "startColumn": 4,
-                    "startOffset": 124400,
+                    "startOffset": 124393,
                     "endColumn": 63,
-                    "endOffset": 124459
+                    "endOffset": 124452
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -10078,9 +10078,9 @@
                 "to": {
                     "startLine": 1687,
                     "startColumn": 4,
-                    "startOffset": 124464,
+                    "startOffset": 124457,
                     "endColumn": 105,
-                    "endOffset": 124565
+                    "endOffset": 124558
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -10097,9 +10097,9 @@
                 "to": {
                     "startLine": 1688,
                     "startColumn": 4,
-                    "startOffset": 124570,
+                    "startOffset": 124563,
                     "endColumn": 109,
-                    "endOffset": 124675
+                    "endOffset": 124668
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -10116,9 +10116,9 @@
                 "to": {
                     "startLine": 1689,
                     "startColumn": 4,
-                    "startOffset": 124680,
+                    "startOffset": 124673,
                     "endColumn": 83,
-                    "endOffset": 124759
+                    "endOffset": 124752
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",
@@ -10135,9 +10135,9 @@
                 "to": {
                     "startLine": 1690,
                     "startColumn": 4,
-                    "startOffset": 124764,
+                    "startOffset": 124757,
                     "endColumn": 119,
-                    "endOffset": 124879
+                    "endOffset": 124872
                 },
                 "from": {
                     "file": "E:\\AndroidStudio\\CoolWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values\\values.xml",

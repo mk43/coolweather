@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:3:11-36
 		INJECTED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml
@@ -18,7 +18,7 @@ ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:5:3-65
 	android:name
 		ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:5:20-62
 application
-ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:7:3-26:17
+ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:7:3-31:17
 MERGED from [com.android.support:appcompat-v7:24.2.0] E:\AndroidStudio\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:24.2.0] E:\AndroidStudio\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-compat:24.2.0] E:\AndroidStudio\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
@@ -35,7 +35,7 @@ MERGED from [com.android.support:support-fragment:24.2.0] E:\AndroidStudio\CoolW
 	android:allowBackup
 		ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:8:5-31
 	android:icon
-		ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:9:5-39
+		ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:9:5-32
 	android:theme
 		ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:12:5-55
 activity#com.coolweather.activity.ChooseAreaActivity
@@ -58,6 +58,14 @@ activity#com.coolweather.activity.WeatherActivity
 ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:22:5-24:16
 	android:name
 		ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:22:15-55
+service#com.coolweather.service.AutoUpdateService
+ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:25:5-27:15
+	android:name
+		ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:25:14-55
+receiver#com.coolweather.receiver.AutoUpdateReceiver
+ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:28:5-30:16
+	android:name
+		ADDED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml:28:15-58
 uses-sdk
 INJECTED from E:\AndroidStudio\CoolWeather\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:24.2.0] E:\AndroidStudio\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:21:5-23:78
