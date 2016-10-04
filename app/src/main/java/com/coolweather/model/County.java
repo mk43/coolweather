@@ -1,10 +1,12 @@
 package com.coolweather.model;
 
+import java.io.Serializable;
+
 /**
  * Created by zzj on 2016/9/30.
  */
 
-public class County {
+public class County implements Serializable{
   private int id;
   private String countyName;
   private String countyCode;
@@ -39,6 +41,6 @@ public class County {
   }
 
   public void setCityId(int cityId) {
-    cityId = cityId;
+    this.cityId = cityId;
   }
 }

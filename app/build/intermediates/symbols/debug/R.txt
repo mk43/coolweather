@@ -481,7 +481,9 @@ int drawable abc_textfield_search_activated_mtrl_alpha 0x7f02004c
 int drawable abc_textfield_search_default_mtrl_alpha 0x7f02004d
 int drawable abc_textfield_search_material 0x7f02004e
 int drawable abc_vector_test 0x7f02004f
-int drawable notification_template_icon_bg 0x7f020050
+int drawable home 0x7f020050
+int drawable notification_template_icon_bg 0x7f020052
+int drawable refresh 0x7f020051
 int id action0 0x7f0b0056
 int id action_bar 0x7f0b0045
 int id action_bar_activity_content 0x7f0b0000
@@ -507,8 +509,10 @@ int id buttonPanel 0x7f0b002e
 int id cancel_action 0x7f0b0057
 int id checkbox 0x7f0b003c
 int id chronometer 0x7f0b005d
+int id city_name 0x7f0b0064
 int id collapseActionView 0x7f0b001e
 int id contentPanel 0x7f0b0034
+int id current_date 0x7f0b0068
 int id custom 0x7f0b003a
 int id customPanel 0x7f0b0039
 int id decor_content_parent 0x7f0b0043
@@ -539,7 +543,9 @@ int id normal 0x7f0b000a
 int id parentPanel 0x7f0b0030
 int id progress_circular 0x7f0b0005
 int id progress_horizontal 0x7f0b0006
+int id publish_text 0x7f0b0066
 int id radio 0x7f0b003e
+int id refersh_weather 0x7f0b0065
 int id screen 0x7f0b0015
 int id scrollIndicatorDown 0x7f0b0038
 int id scrollIndicatorUp 0x7f0b0035
@@ -567,7 +573,10 @@ int id src_over 0x7f0b0018
 int id status_bar_latest_event_content 0x7f0b0058
 int id submenuarrow 0x7f0b003f
 int id submit_area 0x7f0b0050
+int id switch_city 0x7f0b0063
 int id tabMode 0x7f0b000b
+int id temp1 0x7f0b006a
+int id temp2 0x7f0b006b
 int id text 0x7f0b0060
 int id text2 0x7f0b005e
 int id textSpacerNoButtons 0x7f0b0037
@@ -579,6 +588,8 @@ int id top 0x7f0b0023
 int id topPanel 0x7f0b0031
 int id up 0x7f0b0008
 int id useLogo 0x7f0b0012
+int id weather_desp 0x7f0b0069
+int id weather_info_layout 0x7f0b0067
 int id withText 0x7f0b0021
 int id wrap_content 0x7f0b0019
 int integer abc_config_activityDefaultDur 0x7f0c0000
@@ -625,6 +636,7 @@ int layout select_dialog_item_material 0x7f040023
 int layout select_dialog_multichoice_material 0x7f040024
 int layout select_dialog_singlechoice_material 0x7f040025
 int layout support_simple_spinner_dropdown_item 0x7f040026
+int layout weather_layout 0x7f040027
 int mipmap ic_launcher 0x7f030000
 int string abc_action_bar_home_description 0x7f060000
 int string abc_action_bar_home_description_format 0x7f060001
@@ -662,6 +674,7 @@ int string china 0x7f060022
 int string db_name 0x7f060023
 int string search_menu_title 0x7f060013
 int string status_bar_notification_info_overflow 0x7f060014
+int string to 0x7f060024
 int style AlertDialog_AppCompat 0x7f08008a
 int style AlertDialog_AppCompat_Light 0x7f08008b
 int style Animation_AppCompat_Dialog 0x7f08008c

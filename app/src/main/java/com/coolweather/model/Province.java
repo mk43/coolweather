@@ -1,10 +1,12 @@
 package com.coolweather.model;
 
+import java.io.Serializable;
+
 /**
  * Created by zzj on 2016/9/30.
  */
 
-public class Province {
+public class Province implements Serializable{
   private int id;
   private String provinceName;
   private String provinceCode;

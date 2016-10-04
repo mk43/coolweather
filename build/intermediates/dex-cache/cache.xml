@@ -115,7 +115,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="b273cd91dad92b11ea1dc3f1c83792243a053bcc">
+        sha1="9703048a83d43de7a26328362459fc92087e5ffd">
         <dex dex="E:\AndroidStudio\CoolWeather\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8fc8490b70076a59ce281d1a572722a48887daee.jar" />
     </item>
     <item
@@ -151,7 +151,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="eab7d8f865b92bcea2a75de47641bb46ae27267e">
+        sha1="f895cc44fdffd23c00e8b145b0df325a281abeec">
         <dex dex="E:\AndroidStudio\CoolWeather\app\build\intermediates\pre-dexed\debug\instant-run_0ac6cfbecae0974865c52e202622d6919451d463.jar" />
     </item>
 
